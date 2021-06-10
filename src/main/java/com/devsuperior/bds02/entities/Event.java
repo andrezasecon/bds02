@@ -75,4 +75,5 @@ public class Event {
 	public void setCity(City city) {
 		this.city = city;
 	}
-}
+
+	}
